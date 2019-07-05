@@ -1,0 +1,6 @@
+install.packages("plytr")
+library(plytr)
+install.packages("e1071")
+library(e1071)
+install.packages("ROCR")
+library(ROCR)
