@@ -7,6 +7,6 @@ Sendo assim, o que nos resta agora é "mãos à obra"!
 
 Aproveito para parabenizar a *2ª Turma de 2019* do **Curso de Extensão em Ciência dos Dados do PPGAD (UFF)**, onde houve muita troca de experiências quanto aos problemas relacionados em várias áreas de negócio e de fato, todos os problemas explicitados pelos alunos são *cases* de destaque no domínio de _**Data Science**_ em seu estado da arte. Mais uma vez, parabéns! 
 
-Sintam-se à vontade para mantermos o contato por e-mail e linkedin.
+Fiquem à vontade para manter contato por [e-mail](gassantos@id.uff.br) e [Linkedin](https://www.linkedin.com/in/gassantos).
 
 Grande abraço!
