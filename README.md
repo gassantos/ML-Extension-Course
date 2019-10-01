@@ -9,6 +9,6 @@ Aproveito para parabenizar a *2ª Turma de 2019*, a qual possibilitou muita troc
 
 Seja bem-vinda a **3ª Turma de 2019 do Curso de Extensão em Ciência dos Dados do PPGAD (UFF)**, nos vemos no dia 05/10 no nosso *Data'n Rio* ;)
 
-Fiquem à vontade para manter contato por [e-mail](gassantos@id.uff.br) e [Linkedin](https://www.linkedin.com/in/gassantos).
+Fiquem à vontade para contactar-me: [e-mail](gassantos@id.uff.br) e [Linkedin](https://www.linkedin.com/in/gassantos).
 
 Grande abraço!
