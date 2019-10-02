@@ -7,7 +7,7 @@ Sendo assim, o que nos resta agora é "mãos à obra"!
 
 Aproveito para parabenizar a *2ª Turma de 2019*, a qual possibilitou muita troca de experiências quanto aos problemas relacionados em várias áreas de negócio e de fato, todos os problemas explicitados pelos alunos são *cases* de destaque no domínio de _**Data Science**_. Mais uma vez, parabéns! 
 
-Sejam bem-vindos à **3ª Turma de 2019 do Curso de Extensão em Ciência dos Dados do PPGAD (UFF)**, nos vemos no dia 05/10 no nosso *Data'n Rio* ;)
+Sejam bem-vindos a **3ª Turma de 2019 do Curso de Extensão em Ciência dos Dados do PPGAD (UFF)**, nos vemos no dia 05/10 no nosso *Data'n Rio* ;)
 
 Fiquem à vontade para contato: [e-mail](gassantos@id.uff.br) e [Linkedin](https://www.linkedin.com/in/gassantos).
 
