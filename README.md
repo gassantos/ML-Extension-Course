@@ -9,7 +9,7 @@ Aproveito para parabenizar a *2ª Turma de 2019*, a qual possibilitou muita troc
 
 Sejam bem-vindos a **3ª Turma de 2019 do Curso de Extensão em Ciência dos Dados do PPGAD (UFF)**, nos vemos no dia 05/10 no nosso *Data'n Rio* ;)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gassantos/ML-Extension-Course/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://rnotebook.io/anon/12584b75c12dcfb0/notebooks/Introduction%20R%20to%20Dataset%20Sonar.ipynb)
 
 Fiquem à vontade para contato: [e-mail](gassantos@id.uff.br) e [Linkedin](https://www.linkedin.com/in/gassantos).
 
