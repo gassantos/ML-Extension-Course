@@ -23,7 +23,7 @@ Grande abraço!
 
 * Em ***R***,  um pacote que está sendo bastante comentado é o **DALEX**
 
-![DALEX](https://modeloriented.github.io/DALEX/reference/figures/logo.png)
+[![DALEX](https://modeloriented.github.io/DALEX/reference/figures/logo.png)](https://modeloriented.github.io/DALEX/) 
 
 * Em ***Python***, os frameworks mais conhecidos são **SHAP** e **LIME**
 
