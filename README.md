@@ -14,3 +14,19 @@ Sejam bem-vindos a **3ª Turma de 2019 do Curso de Extensão em Ciência dos Dad
 Fiquem à vontade para contato: [e-mail](gassantos@id.uff.br) e [Linkedin](https://www.linkedin.com/in/gassantos).
 
 Grande abraço!
+
+
+
+# Recomendação!
+
+## Conheçam o conceito "XAI / IML" - *eXplainable Artificial Intelligence* or *Interpretable Machine Learning*
+
+* Em ***R***,  um pacote que está sendo bastante comentado é o **DALEX**
+
+![DALEX](https://modeloriented.github.io/DALEX/reference/figures/logo.png)
+
+* Em ***Python***, os frameworks mais conhecidos são **SHAP** e **LIME**
+
+  [SHAP - SHapley Additive exPlanations](https://shap.readthedocs.io/en/latest/)
+  
+  [LIME - Local Interpretable Model-Agnostic Explanations](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime)
