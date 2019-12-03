@@ -19,11 +19,11 @@ Grande abraço!
 
 # Recomendação!
 
-## Conheçam o conceito "XAI / IML" - *eXplainable Artificial Intelligence* or *Interpretable Machine Learning*
+## Conheçam o conceito "XAI / IML" - [*eXplainable Artificial Intelligence* or *Interpretable Machine Learning*](https://www.darpa.mil/attachments/XAIProgramUpdate.pdf)
 
 * Em ***R***,  um pacote que está sendo bastante comentado é o **DALEX**
 
-[![DALEX](https://modeloriented.github.io/DALEX/reference/figures/logo.png)](https://modeloriented.github.io/DALEX/) 
+  [DALEX - Descriptive mAchine Learning EXplanations](https://modeloriented.github.io/DALEX/) 
 
 * Em ***Python***, os frameworks mais conhecidos são **SHAP** e **LIME**
 
