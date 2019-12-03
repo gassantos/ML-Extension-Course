@@ -17,7 +17,7 @@ Grande abraço!
 
 
 
-# Recomendação!
+# Recomendação
 
 ## Conheçam o conceito "XAI / IML" - [*eXplainable Artificial Intelligence* or *Interpretable Machine Learning*](https://www.darpa.mil/attachments/XAIProgramUpdate.pdf)
 
